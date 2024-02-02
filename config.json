@@ -27,7 +27,7 @@
   },
   "nickNameBot": "Yazkybot",
   "ownerlink": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "&",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
